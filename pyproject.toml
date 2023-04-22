@@ -3,6 +3,7 @@ name = "automatic-carnival"
 version = "0.1.0"
 description = ""
 authors = ["Guillermo Enrique Sánchez de Abreu <naselliug@gmail.com>"]
+readme = "README.md"
 packages = [{include = "automatic_carnival"}]
 
 [tool.poetry.dependencies]
